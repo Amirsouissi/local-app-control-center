@@ -1,0 +1,25 @@
+# Build outputs
+*.exe
+*.dll
+*.pdb
+bin/
+obj/
+
+# Local app settings
+controlcenter.ini
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+Thumbs.db
+Desktop.ini
+
+# Editor and OS metadata
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
