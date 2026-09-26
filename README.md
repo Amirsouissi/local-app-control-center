@@ -38,3 +38,5 @@ powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\build_windows_exe.ps1
 Existing `controlcenter.ini` files can stay beside the new executable. The settings format is unchanged.
 
 For npm commands, the selected project folder should be the folder containing `package.json`. Version 1.2 can detect and correct a nearby parent project root automatically.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22976310.svg)](https://doi.org/10.5281/zenodo.22976310)
