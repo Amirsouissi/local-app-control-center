@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software in research, technical reports, teaching, or development projects, please cite it."
+
+title: "Local App Control Center"
+type: software
+version: "1.2"
+date-released: 2026-09-21
+
+authors:
+  - given-names: "Amir"
+    family-names: "Souissi"
+
+repository-code: "https://github.com/Amirsouissi/local-app-control-center"
+url: "https://github.com/Amirsouissi/local-app-control-center"
+
+license: MIT
+
+keywords:
+  - local development
+  - developer tools
+  - Windows
+  - frontend
+  - backend
+  - port management
+  - server management
+  - WinForms
